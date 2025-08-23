@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#navbar{
+    height:60px;
+    background-color: #0f1111;
+    color:aliceblue;
+}
+
+button{
+    background-color:darkorange;
+}
+
+#logo{
+    color:darkorange;
+    font-size: 25px;
+}
+
+a{
+    margin-right:200px;
+}
