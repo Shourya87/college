@@ -1,0 +1,29 @@
+imga{
+/* text-shadow position x-axis y-axis color;*/
+    text-shadow: inset 5rem 2rem gold;
+/* text-shadow x-axis y-axis opacity spreding color; */
+    text-shadow: 10px 5px 2px 100px green;
+
+
+
+/* box shadow: position x-axis y-axis color; */
+    box-shadow: inset 5rem 2rem gold;
+/* box shadow: x-axis y-axis opacity spreding color; */
+    box-shadow: 10px 5px 2px 100px green;
+/* box-shadow: for add layer in shadow; */
+    box-shadow: 10px 15px red, 15px 8px green;
+
+
+
+/* mix-blend-mode: display style- hard-light,difference normal; */    
+    mix-blend-mode: screen;
+
+
+/* overflow: (auto,left,right) control content flow; */
+    overflow: right;
+}
+
+
+h1{
+    color:aquamarine;
+}
