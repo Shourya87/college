@@ -21,6 +21,10 @@ imga{
 
 /* overflow: (auto,left,right) control content flow; */
     overflow: right;
+
+
+/* background-image: transition between color(Angle of gradient, first color & strat point, second color & end point); */
+    background-image: linear-gradient(135deg, #8bc6ec 0%, #9599e2 100%);
 }
 
 
