@@ -3,13 +3,7 @@ import java.util.Arrays;
 public class ArrayInput {
 
     static void printArray(int arr[]){
-        for (int i = 0; i < arr.length; i++){
-       //     System.out.println(arr[i]);
-            for(int j = 0; j < arr.length; j++){
-                System.out.print(Arrays.toString(arr));
-            }
-            System.out.println();
-        }
+        
     }
 
 
